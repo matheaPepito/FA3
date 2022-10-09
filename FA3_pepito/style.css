@@ -1,0 +1,38 @@
+
+html{
+      background-image: url("image.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+}
+
+h1{
+    text-align: center;
+    background-color: #ffcec5;
+    font-family: Times;
+    border: 2px;
+    border-style: dotted;
+    border-color: blue;
+    width: 250px;
+    padding: 10px 15px;
+    margin-bottom:20px;
+    margin:auto;
+}
+
+p{
+   text-align: justify;
+   font-style: italic;
+   background-color: hsl(9, 45%, 80%);
+   border: 3px;
+   Border-style: solid double dotted dashed;
+   border-color: black;
+   width: 500px;
+   padding: 20px;
+}
+
+span{
+      font-weight: bold;
+      font-style: italic;
+      color: rgb(255, 255, 255);
+      margin-left:2px;
+      margin-right:5px;
+}
